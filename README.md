@@ -1,3 +1,1 @@
-# Wordpress in docker with  github actions
-Wordpress dockerizado para trabajar en local.
-
+Repo para monitorear docker de Wordpress con Prometheus y Grafana
