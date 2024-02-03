@@ -1,0 +1,17 @@
+{
+	"ulid": "01HNN1NEYV3C45Q8DHEK23VHVZ",
+	"minTime": 1706871352927,
+	"maxTime": 1706875200000,
+	"stats": {
+		"numSamples": 1028089,
+		"numSeries": 4929,
+		"numChunks": 8155
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HNN1NEYV3C45Q8DHEK23VHVZ"
+		]
+	},
+	"version": 1
+}
